@@ -1,0 +1,8 @@
+{
+  "short_name": "React Error Handling",
+  "name": "The Ultimate Way Of Handling Errors in React",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

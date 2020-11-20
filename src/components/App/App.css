@@ -1,0 +1,18 @@
+@import url("//fonts.googleapis.com/css?family=Lato:300,400,700,400italic");
+
+* {
+  box-sizing: border-box;
+}
+
+iframe {
+  display: none;
+}
+
+body {
+  text-align: center;
+  font-size: large;
+}
+
+.links {
+  margin-bottom: 100px;
+}
